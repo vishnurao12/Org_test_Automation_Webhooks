@@ -1,0 +1,8 @@
+pipelines:
+  - name: wh_commit_ps_false_github_0001_1 
+    steps:
+      - name: wh_commit_ps_false_github_0001_1 
+        type: Bash
+        execution:
+          onExecute:
+            - echo "executing step..."
