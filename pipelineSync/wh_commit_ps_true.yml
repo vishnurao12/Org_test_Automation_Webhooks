@@ -1,0 +1,26 @@
+pipelines:
+  - name: wh_commit_ps_true_github_0001
+    steps:
+      - name: wh_commit_ps_true_github_0001
+        type: Bash
+        execution:
+          onExecute:
+            - echo "executing step..."
+              
+
+              #1655210845416
+              
+              #1655211023614
+              
+              #1655211147206
+              
+              #1655270954138
+              
+              #1655278328481
+              
+              #1655280037138
+              
+              #1655382202148
+              
+              #1655450317328
+              

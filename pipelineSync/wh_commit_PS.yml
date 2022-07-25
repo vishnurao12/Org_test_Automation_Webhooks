@@ -1,7 +1,7 @@
 pipelines:
-  - name: wh_commit_ps_false_github_0001 
+  - name: wh_commit_inc_file_PS_github_0001
     steps:
-      - name: wh_commit_ps_false_github_0001 
+      - name: wh_commit_inc_file_PS_github_0001
         type: Bash
         execution:
           onExecute:
